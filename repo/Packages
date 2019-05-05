@@ -3,10 +3,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Amethyl <amethyldev@gmail.com>
 Filename: Files/amethyless/org.amethyl.amethyless_0.0.1-127_iphoneos-arm.deb
-Size: 3884
-MD5sum: 3bd59c0b391141d0ef0e94f50fe896d1
-SHA1: 23e38962e5195301f393b8c9f060ad5bcb4f886e
-SHA256: f47f06b4656787b49b5015a8a5dd72e9d18f74cc9049e46e22d9d148be9ee577
+Size: 3640
+MD5sum: 636a58885e54ca030484eb2c332135a2
+SHA1: f4716bcf23df14d601b1de2c21d078a95dfb0bab
+SHA256: f01910864eef22c499afe31b69f388e2c615d618223bccbb3846d63ed6fee1fa
 Section: Tweaks
 Description: Essential Amethyl Dependencies
 Name: Amethyl Essentials
