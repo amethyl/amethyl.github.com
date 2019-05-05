@@ -1,0 +1,8 @@
+Origin: Amethyl repo
+Label: Amethyl repo
+Suite: stable
+Version: 1.0
+Codename: amtnryrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Amethyl Cydia Repository
