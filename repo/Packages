@@ -6,7 +6,7 @@ Depends: mobilesubstrate, preferenceloader
 Provides: com.amethyl.amethylessdeb
 Architecture: iphoneos-arm
 Filename: Files/amethyless/org.amethyl.amethyless_0.0.1-127_iphoneos-arm.deb
-Size: 6040
+Size: 3884
 Installed-Size: 40
 MD5sum: ced0d3a70d452b19db8d6860b14ddf39
 Description: Essential Amethyl Dependencies
